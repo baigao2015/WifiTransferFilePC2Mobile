@@ -1,0 +1,2 @@
+# WifiTransferFilePC2Mobile
+借助WiFi传递文件到手机上使用，可以摒弃USB
