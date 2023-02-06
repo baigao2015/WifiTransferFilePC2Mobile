@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/githubdemo/WifiTransferFilePC2Mobile/app/src/main/res/drawable/splash.xml" value="0.2635" />
+        <entry key="..\:/githubdemo/WifiTransferFilePC2Mobile/app/src/main/res/layout/activity_main.xml" value="0.18333333333333332" />
+        <entry key="..\:/githubdemo/WifiTransferFilePC2Mobile/app/src/main/res/layout/activity_splash.xml" value="0.21784420289855072" />
+        <entry key="..\:/githubdemo/WifiTransferFilePC2Mobile/app/src/main/res/layout/content_main.xml" value="0.18333333333333332" />
+        <entry key="..\:/githubdemo/WifiTransferFilePC2Mobile/app/src/main/res/layout/empty_view.xml" value="0.18333333333333332" />
+        <entry key="..\:/githubdemo/WifiTransferFilePC2Mobile/app/src/main/res/layout/item_tv.xml" value="0.33" />
+        <entry key="..\:/githubdemo/WifiTransferFilePC2Mobile/app/src/main/res/layout/item_tv2.xml" value="0.35989583333333336" />
+        <entry key="..\:/githubdemo/WifiTransferFilePC2Mobile/app/src/main/res/layout/layout_book_item.xml" value="0.22" />
+        <entry key="..\:/githubdemo/WifiTransferFilePC2Mobile/app/src/main/res/layout/layout_popup_menu_dialog.xml" value="0.18333333333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

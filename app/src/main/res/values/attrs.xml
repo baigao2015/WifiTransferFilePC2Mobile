@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 两端对齐方式 -->
+    <declare-styleable name="AlignTextView">
+        <!-- 只有一行是是否两端对齐 -->
+        <attr name="alignOnlyOneLine" format="boolean" />
+        <!-- 字体颜色 -->
+        <attr name="android_textColor" format="color" />
+    </declare-styleable>
+</resources>
